@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "CrateMovement", "CrateMovement\CrateMovement.vfproj", "{3461B80A-0BA2-47FD-A6B5-E8B93D03537A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3461B80A-0BA2-47FD-A6B5-E8B93D03537A}.Debug|x64.ActiveCfg = Debug|x64
+		{3461B80A-0BA2-47FD-A6B5-E8B93D03537A}.Debug|x64.Build.0 = Debug|x64
+		{3461B80A-0BA2-47FD-A6B5-E8B93D03537A}.Debug|x86.ActiveCfg = Debug|Win32
+		{3461B80A-0BA2-47FD-A6B5-E8B93D03537A}.Debug|x86.Build.0 = Debug|Win32
+		{3461B80A-0BA2-47FD-A6B5-E8B93D03537A}.Release|x64.ActiveCfg = Release|x64
+		{3461B80A-0BA2-47FD-A6B5-E8B93D03537A}.Release|x64.Build.0 = Release|x64
+		{3461B80A-0BA2-47FD-A6B5-E8B93D03537A}.Release|x86.ActiveCfg = Release|Win32
+		{3461B80A-0BA2-47FD-A6B5-E8B93D03537A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E43F5E2-9316-41BC-9D77-5099619FDF45}
+	EndGlobalSection
+EndGlobal
